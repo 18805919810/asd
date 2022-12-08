@@ -3,6 +3,9 @@ public class Main {
 
         System.out.println("1256");
         System.out.println("1267894");
+        System.out.println("1267894");
+        System.out.println("1267894");
+        System.out.println("pull git code");
     }
 
 }
